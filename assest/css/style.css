@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fontlight{
+    font-weight: 300;
+    color: #212529;
+}
+.fontmedium{
+    display: inline-block;
+    font-weight: 500;
+    color:#FFFFFF;
+}
+.precioStandar{
+    font-size: 16px;
+     color: #707070 ;
+     text-decoration: none;
+}
+.precioOferta{
+    font-size: 24px;
+    color: #28a745;
+    text-decoration: none;
+}
+.descrip{
+    color: #707070;
+    font-size: 16px;
+}
+.location{
+    color: #707070;
+    font-size: 14px;
+}
